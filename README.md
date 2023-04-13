@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I am also a master in urban planning 🏬
 
-### 💻 Comptencies
+### 💻 Competencies
 
 ![HTML5](https://img.shields.io/badge/html5-2_years-555555?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-2_years-555555.svg?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6) ![SASS](https://img.shields.io/badge/SASS-2_years-555555.svg?style=flat-square&logo=SASS&logoColor=white&labelColor=hotpink)
 
