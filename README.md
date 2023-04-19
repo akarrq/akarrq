@@ -2,7 +2,7 @@
 
 💻 I'm Błażej and I'm passionate about Web Development. 🌱 I’m learning FrontEnd technologies - HTML, SASS, JavaScript and React.js ☢️⚛️ 
 
-🔭 I’m currently working on Weather App in React amd DWP App. 
+🔭 I’m currently working on SpaceFeed Site in React amd DWP App. 
 
 ⚡ Fun fact: I am also a master in urban planning 🏬
 
