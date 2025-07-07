@@ -1,8 +1,6 @@
 # Hello there 👋
 
-💻 I'm Błażej and I'm passionate about Web Development. 🌱 I’m learning FrontEnd technologies - HTML, SASS, JavaScript and React.js ☢️⚛️
-
-🔭 I’m currently working on Drivers Work Plan App in React. ▶️[Live Demo](https://akarrq.github.io/DriversWorkPlan/)
+💻 I'm Błażej and I'm passionate about Web Development. 🌱 I’m learning FrontEnd technologies - TypeScript and React.js ☢️⚛️
 
 ⚡ Fun fact: I am also a master in urban planning 🏬
 
